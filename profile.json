@@ -1,0 +1,71 @@
+{
+    "nick": "Suara SIY",
+    "level": 984,
+    "class": "Stars",
+    "skills": [
+        {
+            "id": 1,
+            "category": "common",
+            "name": "Dash",
+            "chant": [
+                "Dash", "Go", "en fiel dash"
+            ],
+            "level": 554,
+            "grade": "B",
+            "sval": {
+                "default": 10,
+                "count": 3,
+                "multiplierSval": 2.5,
+                "limiter": "m"
+            }
+        },
+        {
+            "id": 2,
+            "category": "common",
+            "name": "Wreck",
+            "chant": [
+                "Wreck", "Zeck", "re fien wreck"
+            ],
+            "level": 535,
+            "grade": "B",
+            "sval": {
+                "default": 120,
+                "count": 4,
+                "multiplierSval": 3.7,
+                "limiter": "dmg"
+            }
+        },
+        {
+            "id": 3,
+            "category": "common",
+            "name": "Twist",
+            "chant": [
+                "Twist", "Zist", "la roar twist"
+            ],
+            "level": 621,
+            "grade": "A",
+            "sval": {
+                "default": 75,
+                "count": 8,
+                "multiplierSval": 1.85,
+                "limiter": "dmg"
+            }
+        },
+        {
+            "id": 4,
+            "category": "heavy",
+            "name": "Blast",
+            "chant": [
+                "Blast", "Away", "Blow"
+            ],
+            "level": 890,
+            "grade": "A+",
+            "sval": {
+                "default": 353,
+                "count": 2,
+                "multiplierSval": 3.4,
+                "limiter": "dmg"
+            }
+        }
+    ]
+}
