@@ -6,5 +6,26 @@
   "level": "Beginner",
   "bio": "I like to learn code and problem solving with friends",
   "liked": "Anime, Music, White Album 2, Turn-Based Game",
-  "images": []
+  "images": [
+    {
+      "title": "Burger Builder UI",
+      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/BURGER_UI.png?token=AOC5TTSX34ZUKEEVCMBJLGTAUDWWG"
+    },
+    {
+      "title": "Glowticle UI",
+      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/GLOWTICLE_UI.png?token=AOC5TTVD3TEADPLAT26CQGTAUDW42"
+    },
+    {
+      "title": "Transflow Button UI",
+      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/TRANS_BUTTON_UI.png?token=AOC5TTUOFRO57OCSOKCCWGLAUDW6U"
+    },
+    {
+      "title": "Whatsapp New UI",
+      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/WA_UI.png?token=AOC5TTQWNQ5Y6FGDNTDWB2LAUDW74"
+    },
+    {
+      "title": "X Feye Planets Select UI",
+      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/X_FEYE_PLANET_UI.png?token=AOC5TTSLLEW37WHMDJHE6RDAUDXBI"
+    }
+  ]
 }
