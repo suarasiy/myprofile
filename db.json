@@ -31,31 +31,38 @@
   "musics": [
     {
       "title": "「無職轉生」OP2 完整版「目覚めの唄」大原ゆい子 【CC中日字幕】",
-      "url": "https://www.youtube.com/watch?v=wGAaRIDI-lA"
+      "url": "https://www.youtube.com/watch?v=wGAaRIDI-lA",
+      "thumb": "https://github.com/suarasiy/myprofile/blob/master/src/assets/musics/thumbs/chrome_lBnoXryv5u.jpg?raw=true"
     },
     {
       "title": "White Album Guitar & Piano Instrumental",
-      "url": "https://www.youtube.com/watch?v=-l8J9zgZuv4"
+      "url": "https://www.youtube.com/watch?v=-l8J9zgZuv4",
+      "thumb": "https://github.com/suarasiy/myprofile/blob/master/src/assets/musics/thumbs/chrome_bLH8UvLsYD.png?raw=true"
     },
     {
       "title": "WHITE ALBUM2  BGM ｢あの頃のように｣",
-      "url": "https://www.youtube.com/watch?v=rY_JYS7Aeeg"
+      "url": "https://www.youtube.com/watch?v=rY_JYS7Aeeg",
+      "thumb": "https://github.com/suarasiy/myprofile/blob/master/src/assets/musics/thumbs/chrome_UH2u6i3Ilr.png?raw=true"
     },
     {
       "title": "静かな冬の夜",
-      "url": "https://www.youtube.com/watch?v=ky249z4bs-8"
+      "url": "https://www.youtube.com/watch?v=ky249z4bs-8",
+      "thumb": "https://github.com/suarasiy/myprofile/blob/master/src/assets/musics/thumbs/chrome_Te9Y6DYN11.jpg?raw=true"
     },
     {
       "title": "【Emotional】La Pucelle | by Masaru Yokoyama",
-      "url": "https://youtu.be/p0pgRL7r4AM"
+      "url": "https://youtu.be/p0pgRL7r4AM",
+      "thumb": "https://github.com/suarasiy/myprofile/blob/master/src/assets/musics/thumbs/chrome_oP9Iedbk8k.jpg?raw=true"
     },
     {
       "title": "WHITE ALBUM 2 White Love 小木曽 雪菜(米澤円) with 津田朱里 歌詞付き",
-      "url": "https://youtu.be/hU_efLOo0hE"
+      "url": "https://youtu.be/hU_efLOo0hE",
+      "thumb": "https://github.com/suarasiy/myprofile/blob/master/src/assets/musics/thumbs/chrome_9soF7gceuS.png?raw=true"
     },
     {
       "title": "Hatsuki Yura - Yoiyami Hanabi (instrumental)",
-      "url": "https://youtu.be/zFHuv1JoBQk"
+      "url": "https://youtu.be/zFHuv1JoBQk",
+      "thumb": "https://github.com/suarasiy/myprofile/blob/master/src/assets/musics/thumbs/chrome_I50vfGSGmZ.jpg?raw=true"
     }
   ]
 }
