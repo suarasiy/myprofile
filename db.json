@@ -9,23 +9,28 @@
   "images": [
     {
       "title": "Burger Builder UI",
-      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/BURGER_UI.png?token=AOC5TTSX34ZUKEEVCMBJLGTAUDWWG"
+      "light": "https://www.dropbox.com/s/mev7kbczux9d3vk/LIGHT_BURGER_UI.png?raw=1",
+      "url": "https://www.dropbox.com/s/yxxpu8pv9zutu7h/BURGER_UI.png?raw=1"
     },
     {
       "title": "Glowticle UI",
-      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/GLOWTICLE_UI.png?token=AOC5TTVD3TEADPLAT26CQGTAUDW42"
+      "light": "https://www.dropbox.com/s/0vf9gu2p1h02jvs/LIGHT_GLOWTICLE_UI.png?raw=1",
+      "url": "https://www.dropbox.com/s/jli5z3f2mp8ne3b/GLOWTICLE_UI.png?raw=1"
     },
     {
       "title": "Transflow Button UI",
-      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/TRANS_BUTTON_UI.png?token=AOC5TTUOFRO57OCSOKCCWGLAUDW6U"
+      "light": "https://www.dropbox.com/s/zek6zhghmmfx2hk/LIGHT_TRANS_BUTTON_UI.png?raw=1",
+      "url": "https://www.dropbox.com/s/zmn0qrsw8dsye9s/TRANS_BUTTON_UI.png?raw=1"
     },
     {
       "title": "Whatsapp New UI",
-      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/WA_UI.png?token=AOC5TTQWNQ5Y6FGDNTDWB2LAUDW74"
+      "light": "https://www.dropbox.com/s/k9rdv8xbdiluf04/LIGHT_WA_UI.png?raw=1",
+      "url": "https://www.dropbox.com/s/tui6dqjh0s40z4a/WA_UI.png?raw=1"
     },
     {
       "title": "X Feye Planets Select UI",
-      "url": "https://raw.githubusercontent.com/suarasiy/myprofile/master/src/assets/images/design/X_FEYE_PLANET_UI.png?token=AOC5TTSLLEW37WHMDJHE6RDAUDXBI"
+      "light": "https://www.dropbox.com/s/r50gfi8xa5tpzmn/LIGHT_X_FEYE_PLANET_UI.png?raw=1",
+      "url": "https://www.dropbox.com/s/l64xpa8orzyv8yo/X_FEYE_PLANET_UI.png?raw=1"
     }
   ],
   "musics": [
@@ -73,6 +78,16 @@
       "title": "White Album 2 - \"Shin Ai\" by Setsuna Ogiso",
       "url": "https://youtu.be/kfwavmV45W8",
       "thumb": "https://www.dropbox.com/s/gbh5y52mar4kf23/chrome_fdSVgWBzp2.png?raw=1"
+    },
+    {
+      "title": "Sakuzyo - Trinity",
+      "url": "https://youtu.be/JPvgl5IUvEo",
+      "thumb": "https://www.dropbox.com/s/a864utnt1uamey0/R-10894804-1506101896-5566.png.jpg?raw=1"
+    },
+    {
+      "title": "Deemo 2.3 - Sakuzyo - Rondo for 97Keys",
+      "url": "https://youtu.be/ZSOMXrdTGEE",
+      "thumb": "https://www.dropbox.com/s/6pfy7hosjjo1fn9/chrome_Sr7ZCuNuum.png?raw=1"
     }
   ]
 }
