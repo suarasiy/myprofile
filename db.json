@@ -6,6 +6,7 @@
   "level": "Beginner",
   "bio": "I like to learn code and problem solving with friends",
   "liked": "Anime, Music, White Album 2, Turn-Based Game",
+  "photo": "https://www.dropbox.com/s/hbmjs3pt9tt87dt/rina.png?raw=1",
   "images": [
     {
       "title": "Burger Builder UI",
@@ -88,6 +89,11 @@
       "title": "Deemo 2.3 - Sakuzyo - Rondo for 97Keys",
       "url": "https://youtu.be/ZSOMXrdTGEE",
       "thumb": "https://www.dropbox.com/s/6pfy7hosjjo1fn9/chrome_Sr7ZCuNuum.png?raw=1"
+    },
+    {
+      "title": "Kara no Kyoukai - Shiki's Theme Compilation",
+      "url": "https://youtu.be/ZB_ltsS9w4c",
+      "thumb": "https://www.dropbox.com/s/9g4d41pjzasp2wt/chrome_ZKWkUm5Cod.png?raw=1"
     }
   ]
 }
